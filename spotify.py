@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-#Author: Joan Font
+#Author: Joan Font 
+#Idea: Andreu Cortès
 #URL: http://www.joan-font.com/
 
 #You should have mechanize installed (http://wwwsearch.sourceforge.net/mechanize/)
